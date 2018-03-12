@@ -6,3 +6,4 @@ services:
   ports:
     - "8081:8081"
     - "8123:8123"
+  restart: always
